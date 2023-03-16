@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date = "2023-03-12 16:00">
+    <shop>
+        <name>Компьютерс</name>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="80406020202">Системный блок</category>
+        </categories>
+        <shipment-options>
+            <option days="2" order-before="12"/>
+        </shipment-options>A
+        <offer id="КК156" available="true">
+            <url/>
+            <name>Компьютер игровой - i5/GTX-550/8GB/SSD-256/Монитор 22&quot;</name>
+            <price>47200</price>
+            <oldprice>45200</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://cdn1.ozone.ru/s3/multimedia-f/6450724551.jpg</picture>
+            <picture>https://cdn1.ozone.ru/s3/multimedia-d/6450724549.jpg</picture>
+            <picture>https://cdn1.ozone.ru/s3/multimedia-c/6450724548.jpg</picture>
+            <picture>https://cdn1.ozone.ru/s3/multimedia-g/6450724552.jpg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878960</barcode>
+            <discripton>Компьютер игровой. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl Core i5. ОЗУ 8 GB. SSD-256 GB. Видеокарта GTS-550. Блок питания 450w. Монитор 22&quot;. Клавиатура и мышка с подсветкой клавиш.</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК156</param>
+            <param name="Модель">i5/GTS-550/8GB/SSD-256/Монитор 22&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК156</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core 2 Quad</param>
+            <param name="Модель процессора">E5440</param>
+            <param name="Количество ядер процессора">4</param>
+            <param name="Количество потоков процессора">4</param>
+            <param name="Базовая частота процессора, в ГГц">2.83</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">8</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">1</param>
+            <param name="Модель дискретной видеокарты">GeForce GTS 550</param>
+            <param name="Объем HDD, в Гб">0</param>
+            <param name="Объем SSD, в Гб">256</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">450 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Нет</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК155" available="true">
+            <url/>
+            <name>Компьютер игровой - i7/RX-580/16GB/SSD-500/Монитор 27&quot;</name>
+            <price>80500</price>
+            <oldprice>85500</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/336/411/612/28/600009943663b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/336/311/612/30/600009943663b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/336/211/612/30/600009943663b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/336/111/612/30/600009943663b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/336/011/612/32/600009943663b4.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/335/911/612/32/600009943663b5.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878953</barcode>
+            <discripton>Компьютер для учебы и игр. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl Core i7. ОЗУ 16 GB. SSD-500 GB. Видеокарта RX-580. Блок питания 600W. Монитор 27&quot;. Клавиатура и мышка с подсветкой клавиш</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК155</param>
+            <param name="Модель">i7/RX-580/16GB/SSD-500/Монитор 27&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК155</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i7</param>
+            <param name="Модель процессора">E5-2640 v2</param>
+            <param name="Количество ядер процессора">8</param>
+            <param name="Количество потоков процессора">16</param>
+            <param name="Базовая частота процессора, в ГГц">2</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">16</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">4</param>
+            <param name="Модель дискретной видеокарты">Radeon RX 580</param>
+            <param name="Объем HDD, в Гб">0</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">600 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Да</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК154" available="true">
+            <url/>
+            <name>Компьютер игровой - i7/RX-580/16GB/SSD-500/Монитор 24&quot;</name>
+            <price>86300</price>
+            <oldprice>78600</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/528/611/612/31/600009943661b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/528/511/612/31/600009943661b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/528/411/612/31/600009943661b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/528/411/612/31/600009943661b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/528/411/612/31/600009943661b4.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/741/528/411/612/31/600009943661b5.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878946</barcode>
+            <discripton>Компьютер игровой. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl Core i7. ОЗУ 16 GB. SSD-500 GB. Видеокарта RX-580. Блок питания 600w. Монитор 24&quot;. Клавиатура и мышка с подсветкой клавиш.</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК154</param>
+            <param name="Модель">i7/RX-580/16GB/SSD-500/Монитор 24&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК154</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i7</param>
+            <param name="Модель процессора">E5-2420 v2</param>
+            <param name="Количество ядер процессора">6</param>
+            <param name="Количество потоков процессора">12</param>
+            <param name="Базовая частота процессора, в ГГц">2.2</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">16</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">4</param>
+            <param name="Модель дискретной видеокарты">Radeon RX 580</param>
+            <param name="Объем HDD, в Гб">0</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">600 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Да</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК153" available="true">
+            <url/>
+            <name>Компьютер игровой - i7/RX-570/16GB/SSD-500/Монитор 24&quot;</name>
+            <price>85100</price>
+            <oldprice>79200</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/746/910/211/612/28/600009943647b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/746/910/111/612/30/600009943647b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/746/910/111/612/30/600009943647b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/746/910/111/612/30/600009943647b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/746/910/111/612/30/600009943647b4.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/746/910/111/612/30/600009943647b5.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878939</barcode>
+            <discripton>Компьютер игровой. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl Core i7. ОЗУ 16 GB. SSD-500 GB. Видеокарта RX-580. Блок питания 600w. Монитор 24&quot;. Клавиатура и мышка с подсветкой клавиш.</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК153</param>
+            <param name="Модель">i7/RX-580/16GB/SSD-500/Монитор 24&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК153</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i7</param>
+            <param name="Модель процессора">E5-2640 v2</param>
+            <param name="Количество ядер процессора">8</param>
+            <param name="Количество потоков процессора">16</param>
+            <param name="Базовая частота процессора, в ГГц">2</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">16</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">4</param>
+            <param name="Модель дискретной видеокарты">Radeon RX 570</param>
+            <param name="Объем HDD, в Гб">0</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">600 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Да</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК152" available="true">
+            <url/>
+            <name>Компьютер игровой - i7/GTX-660/8GB/SSD-128/HDD-500/Монитор 22&quot;</name>
+            <price>68500</price>
+            <oldprice>66300</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/749/793/211/612/26/600009943638b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/749/793/111/612/26/600009943638b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/749/793/111/612/26/600009943638b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/749/793/111/612/26/600009943638b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/749/793/111/612/26/600009943638b4.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878922</barcode>
+            <discripton>Компьютер для учебы и игр. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl Core i7. ОЗУ 8 GB. SSD-128 GB. HDD-500 GB. Видеокарта GTX-660. Блок питания 550W. Монитор 22&quot;. Клавиатура и мышка с подсветкой клавиш</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК152</param>
+            <param name="Модель">i7/GTX-660/8GB/SSD-128/HDD-500/Монитор 22&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК152</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i7</param>
+            <param name="Модель процессора">X3460</param>
+            <param name="Количество ядер процессора">4</param>
+            <param name="Количество потоков процессора">8</param>
+            <param name="Базовая частота процессора, в ГГц">2.8</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">8</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">1</param>
+            <param name="Модель дискретной видеокарты">GeForce GTX 660</param>
+            <param name="Объем HDD, в Гб">128</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">550 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Да</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК151" available="true">
+            <url/>
+            <name>Компьютер игровой - i5/HD-7770/8GB/SSD-128/HDD-500/Монитор 22&quot;</name>
+            <price>54600</price>
+            <oldprice>52200</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/750/273/711/612/28/600009943633b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/750/273/611/612/28/600009943633b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/750/273/611/612/28/600009943633b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/750/273/611/612/28/600009943633b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/750/273/611/612/28/600009943633b4.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/750/273/611/612/28/600009943633b5.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878915</barcode>
+            <discripton>Компьютер для учебы и игр. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl Core i5. ОЗУ 8 GB. SSD-128 GB. HDD-500 GB. Видеокарта HD-7770. Блок питания 450W. Монитор 22&quot;. Клавиатура и мышка с подсветкой клавиш</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК151</param>
+            <param name="Модель">i5/HD-7770/8GB/SSD-128/HDD-500/Монитор 22&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК151</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i5</param>
+            <param name="Модель процессора">X3460</param>
+            <param name="Количество ядер процессора">4</param>
+            <param name="Количество потоков процессора">8</param>
+            <param name="Базовая частота процессора, в ГГц">2.8</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">8</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">1</param>
+            <param name="Модель дискретной видеокарты">Radeon HD 7770</param>
+            <param name="Объем HDD, в Гб">128</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">450 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Нет</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК150" available="true">
+            <url/>
+            <name>Компьютер игровой - i5/HD-7770/8GB/SSD-128/HDD-500/Монитор 22&quot;</name>
+            <price>54600</price>
+            <oldprice>52200</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/345/911/612/32/600009943587b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/345/811/612/32/600009943587b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/345/811/612/32/600009943587b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/345/811/612/32/600009943587b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/345/811/612/32/600009943587b4.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878908</barcode>
+            <discripton>Компьютер для учебы и игр. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl Core i5. ОЗУ 8 GB. SSD-128 GB. HDD-500 GB. Видеокарта HD-7770. Блок питания 450W. Монитор 22&quot;. Клавиатура и мышка с подсветкой клавиш</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК150</param>
+            <param name="Модель">i5/HD-7770/8GB/SSD-128/HDD-500/Монитор 22&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК150</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i5</param>
+            <param name="Модель процессора">X3460</param>
+            <param name="Количество ядер процессора">4</param>
+            <param name="Количество потоков процессора">8</param>
+            <param name="Базовая частота процессора, в ГГц">2.8</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">8</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">1</param>
+            <param name="Модель дискретной видеокарты">Radeon HD 7770</param>
+            <param name="Объем HDD, в Гб">128</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">450 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Нет</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК149" available="true">
+            <url/>
+            <name>Компьютер игровой - Intеl 4 ядра/HD-7770/8GB/SSD-128/HDD-500/Монитор 20&quot;</name>
+            <price>42600</price>
+            <oldprice>40600</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b4.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878892</barcode>
+            <discripton>Компьютер для учебы и игр. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl 4 ядра. ОЗУ 8 GB. SSD-128 GB. HDD-500 GB. Видеокарта HD-7770. Блок питания 450W. Монитор 20&quot;. Клавиатура и мышка с подсветкой клавиш</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК149</param>
+            <param name="Модель">Intel 4 ядра/HD-7770/8GB/SSD-128/HDD-500/Монитор 20&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК149</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i3</param>
+            <param name="Модель процессора">Q9300</param>
+            <param name="Количество ядер процессора">4</param>
+            <param name="Количество потоков процессора">4</param>
+            <param name="Базовая частота процессора, в ГГц">2.66</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">8</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">1</param>
+            <param name="Модель дискретной видеокарты">Radeon HD 7770</param>
+            <param name="Объем HDD, в Гб">128</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">450 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Нет</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+        <offer id="КК148" available="true">
+            <url/>
+            <name>Компьютер игровой - i7/GTX-650/8GB/SSD-128/HDD-500/Монитор 22&quot;</name>
+            <price>42600</price>
+            <oldprice>40600</oldprice>
+            <categoryld>1</categoryld>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b0.png</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b1.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b2.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b3.jpeg</picture>
+            <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-99/827/922/511/612/26/600009943581b4.jpeg</picture>
+            <vat>6</vat>
+            <shipment-options>
+                <option days="2" order-before="12"/>
+            </shipment-options>
+            <vendor>Компьютерс</vendor>
+            <vendorCode>35302</vendorCode>
+            <barcode>110103878885</barcode>
+            <discripton>Компьютер для учебы и игр. Полный комплект: Системный блок, монитор, мышка, клавиатура, колонки, wi-fi адаптер, провода. Компьютер протестирован и готов на 100%. Загружается и работает быстро. Свежие программы, office, антивирус и драйвера установлены. Пpoцeссоp Intеl 4 ядра. ОЗУ 8 GB. SSD-128 GB. HDD-500 GB. Видеокарта HD-7770. Блок питания 450W. Монитор 20&quot;. Клавиатура и мышка с подсветкой клавиш</discripton>
+            <outlets>
+                <outlet id="1" instock="15"/>
+            <outlets/>
+            <param name="Серия">КК148</param>
+            <param name="Модель">i7/GTX-650/8GB/SSD-128/HDD-500/Монитор 22&quot;</param>
+            <param name="Бренд">Компьютерс</param>
+            <param name="Артикул производителя">КК148</param>
+            <param name="Тип">настольный компьютер</param>
+            <param name="Назначение">игровой</param>
+            <param name="Форм-фактор корпуса">Midi-Tower</param>
+            <param name="Предустановленная ОС">Windows</param>
+            <param name="Версия ОС">11 Professional</param>
+            <param name="Производитель процессора">Intel</param>
+            <param name="Серия процессора">Core i3</param>
+            <param name="Модель процессора">Q9300</param>
+            <param name="Количество ядер процессора">4</param>
+            <param name="Количество потоков процессора">4</param>
+            <param name="Базовая частота процессора, в ГГц">2.66</param>
+            <param name="Процессор со встроенной графикой">Нет</param>
+            <param name="Тип оперативной памяти">DDR3</param>
+            <param name="Объем оперативной памяти, в Гб">8</param>
+            <param name="Тип видеокарты">дискретная</param>
+            <param name="Объем видеопамяти, в Гб">1</param>
+            <param name="Модель дискретной видеокарты">Radeon HD 7770</param>
+            <param name="Объем HDD, в Гб">128</param>
+            <param name="Объем SSD, в Гб">500</param>
+            <param name="Беспроводные интерфейсы">отсутствуют</param>
+            <param name="Оптический привод">отсутствует</param>
+            <param name="Картридер">Нет</param>
+            <param name="Блок питания">450 Вт</param>
+            <param name="Цвет корпуса">черный</param>
+            <param name="Окно на боковой панели">Нет</param>
+            <param name="Монитор - 1 шт. Клавиатура - 1 шт. Кабель для монитора - 1 шт. Мышка - 1 шт. Кабель питания - 2 шт. Системный блок - 1 шт. WiFi адаптер 1 шт.">черный</param>
+            <param name="Страна-производитель">Россия</param>
+            <param name="Вес">12</param>
+            <param name="Высота">50</param>
+            <param name="Ширина">50</param>
+            <param name="Длина">50</param>
+        </offer>
+    </shop>
+</yml_catalog>
